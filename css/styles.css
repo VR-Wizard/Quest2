@@ -11479,7 +11479,7 @@ footer.footer .social-link:hover {
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-masthead-Quest2.jpg");
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 .masthead h1, .masthead .h1 {
   font-size: 4rem;
